@@ -9,7 +9,7 @@
 :muscle: How to reach me:
 
 + [My TUM homepage](https://www.asg.ed.tum.de/en/gis/our-team/former-staff/son-h-nguyen/)
-+ [My LinkedIn page](https://www.linkedin.com/in/son-h-nguyen/)
++ [My LinkedIn page](https://www.linkedin.com/in/huynh-duc-an-son-nguyen/)
 + [My Twitter](https://twitter.com/son_hnguyen)
 + [Email TUM](mailto:son.nguyen@tum.de) [Email HCU](mailto:son.nguyen@hcu-hamburg.de)
 
